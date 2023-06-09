@@ -9,5 +9,4 @@ this weather app find
 *humidity.
 *pressure of the wind.
 
-#ScreenShot
-![Alt text](/relative/path/to/homepage.png?raw=true "optional title")
+
